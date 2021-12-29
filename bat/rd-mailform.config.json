@@ -1,8 +1,0 @@
-{
-  "useSmtp": false,
-  "host": "smtp.poczta.onet.pl",
-  "port": 465,
-  "username": "formularz.clx@op.pl",
-  "password": "Formularz2021",
-  "recipientEmail": "formularz.clx@op.pl"
-}
